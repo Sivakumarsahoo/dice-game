@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #30475E;
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+    color: #F5F5F5;
+    margin: 50px;
+}
+.container{
+   display: flex;
+   justify-content: space-evenly;
+   padding-top: 50px;
+}
+.player{
+    margin: 30px;padding: 10px;
+    font-size: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    color: #676FA3;
+    font-family: sans-serif;
+    
+}
+.player .hy{
+    padding-left: 70px;
+}
